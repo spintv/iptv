@@ -40,7 +40,7 @@ http://192.168.88.253:5004/auto/v18.2
 http://192.168.88.253:5004/auto/v18.2
 #EXTINF:-1 tvg-chno="20.6" tvg-id="I20.6.111309.zap2it.com" tvg-name="20.6_KLJBDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/20.6.png" group-title="Local",20.6 Quest
 http://192.168.88.253:5004/auto/v18.2
-#EXTINF:-1 tvg-chno="24.1" tvg-id="I24.1.34723.zap2it.com" tvg-name="24.1_WQPTDT " tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/24.1.jpg" group-title="Local",24.1 WQPT
+#EXTINF:-1 tvg-chno="24.1" tvg-id="I24.1.34723.zap2it.com" tvg-name="24.1_WQPTDT " tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/24.1.png" group-title="Local",24.1 WQPT
 http://192.168.88.253:5004/auto/v24.1
 #EXTINF:-1 tvg-chno="24.2" tvg-id="I24.2.42771.zap2it.com" tvg-name="24.2_WQPTDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/24.2.jpg" group-title="Local",24.2 DW
 http://192.168.88.253:5004/auto/v24.2
