@@ -4,73 +4,73 @@
 ## TV Channels
 ##
 ###############
-#EXTINF:-1 tvg-chno="4.1" tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1_WHBFDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.1.jpg" group-title="Local",4.1 WHBF
+#EXTINF:-1 tvg-chno="4.1" tvg-id="I4.1.34832.zap2it.com" tvg-name="4.1_WHBFDT" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/4.1.jpg" group-title="Local",4.1 WHBF
 http://192.168.88.253:5004/auto/v4.1
-#EXTINF:-1 tvg-chno="4.2" tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2_WHBFDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.2.png" group-title="Local",4.2 CourtTV
+#EXTINF:-1 tvg-chno="4.2" tvg-id="I4.2.62254.zap2it.com" tvg-name="4.2_WHBFDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/4.2.png" group-title="Local",4.2 CourtTV
 http://192.168.88.253:5004/auto/v4.2
-#EXTINF:-1 tvg-chno="4.3" tvg-id="I4.3.100636.zap2it.com" tvg-name="4.3_WHBFDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.3.jpg" group-title="Local",4.3 GRIT
+#EXTINF:-1 tvg-chno="4.3" tvg-id="I4.3.100636.zap2it.com" tvg-name="4.3_WHBFDT3" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/4.3.jpg" group-title="Local",4.3 GRIT
 http://192.168.88.253:5004/auto/v4.3
-#EXTINF:-1 tvg-chno="4.4" tvg-id="I4.4.100637.zap2it.com" tvg-name="4.4_WHBFDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/4.4.png" group-title="Local",4.4 Mystery
+#EXTINF:-1 tvg-chno="4.4" tvg-id="I4.4.100637.zap2it.com" tvg-name="4.4_WHBFDT4" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/4.4.png" group-title="Local",4.4 Mystery
 http://192.168.88.253:5004/auto/v4.4
-#EXTINF:-1 tvg-chno="6.1" tvg-id="I6.1.43064.zap2it.com" tvg-name="6.1_KWQCDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.1.png" group-title="Local",6.1 KWQC
+#EXTINF:-1 tvg-chno="6.1" tvg-id="I6.1.43064.zap2it.com" tvg-name="6.1_KWQCDT" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/6.1.png" group-title="Local",6.1 KWQC
 http://192.168.88.253:5004/auto/v6.1
-#EXTINF:-1 tvg-chno="6.2" tvg-id="I6.2.43066.zap2it.com" tvg-name="6.2_KWQCDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.2.png" group-title="Local",6.2 ION
+#EXTINF:-1 tvg-chno="6.2" tvg-id="I6.2.43066.zap2it.com" tvg-name="6.2_KWQCDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/6.2.png" group-title="Local",6.2 ION
 http://192.168.88.253:5004/auto/v6.2
-#EXTINF:-1 tvg-chno="6.3" tvg-id="I6.3.82869.zap2it.com" tvg-name="6.3_KWQCDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.3.png" group-title="Local",6.3 Cozi-TV
+#EXTINF:-1 tvg-chno="6.3" tvg-id="I6.3.82869.zap2it.com" tvg-name="6.3_KWQCDT3" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/6.3.png" group-title="Local",6.3 Cozi-TV
 http://192.168.88.253:5004/auto/v6.3
-#EXTINF:-1 tvg-chno="6.4" tvg-id="I6.4.109866.zap2it.com" tvg-name="6.4_KWQCDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.4.jpg" group-title="Local",6.4 H&I TV
+#EXTINF:-1 tvg-chno="6.4" tvg-id="I6.4.109866.zap2it.com" tvg-name="6.4_KWQCDT4" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/6.4.jpg" group-title="Local",6.4 H&I TV
 http://192.168.88.253:5004/auto/v6.4
-#EXTINF:-1 tvg-chno="6.5" tvg-id="I6.5.110655.zap2it.com" tvg-name="6.5_KWQCDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.5.png" group-title="Local",6.5 StartTV
+#EXTINF:-1 tvg-chno="6.5" tvg-id="I6.5.110655.zap2it.com" tvg-name="6.5_KWQCDT5" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/6.5.png" group-title="Local",6.5 StartTV
 http://192.168.88.253:5004/auto/v6.5
-#EXTINF:-1 tvg-chno="6.6" tvg-id="I6.6.110656.zap2it.com" tvg-name="6.6_KWQCDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/6.6.png" group-title="Local",6.6 Circle
+#EXTINF:-1 tvg-chno="6.6" tvg-id="I6.6.110656.zap2it.com" tvg-name="6.6_KWQCDT5" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/6.6.png" group-title="Local",6.6 Circle
 http://192.168.88.253:5004/auto/v6.6
-#EXTINF:-1 tvg-chno="8.1" tvg-id="I8.1.30319.zap2it.com" tvg-name="8.1_WQADDT " tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.1.jpg" group-title="Local",8.1 WQAD
+#EXTINF:-1 tvg-chno="8.1" tvg-id="I8.1.30319.zap2it.com" tvg-name="8.1_WQADDT " tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/8.1.jpg" group-title="Local",8.1 WQAD
 http://192.168.88.253:5004/auto/v8.1
-#EXTINF:-1 tvg-chno="8.2" tvg-id="I8.2.37248.zap2it.com" tvg-name="8.2_WQADDT2 " tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.2.png" group-title="Local",8.2 AntennaTV
+#EXTINF:-1 tvg-chno="8.2" tvg-id="I8.2.37248.zap2it.com" tvg-name="8.2_WQADDT2 " tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/8.2.png" group-title="Local",8.2 AntennaTV
 http://192.168.88.253:5004/auto/v8.2
-#EXTINF:-1 tvg-chno="8.3" tvg-id="I8.3.53049.zap2it.com" tvg-name="8.3_WQADDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.3.jpg" group-title="Local",8.3 MyTv8.3
+#EXTINF:-1 tvg-chno="8.3" tvg-id="I8.3.53049.zap2it.com" tvg-name="8.3_WQADDT3" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/8.3.jpg" group-title="Local",8.3 MyTv8.3
 http://192.168.88.253:5004/auto/v8.3
-#EXTINF:-1 tvg-chno="8.4" tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4_WQADDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/8.4.png" group-title="Local",8.4 TrueCrime
+#EXTINF:-1 tvg-chno="8.4" tvg-id="I8.4.106554.zap2it.com" tvg-name="8.4_WQADDT4" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/8.4.png" group-title="Local",8.4 TrueCrime
 http://192.168.88.253:5004/auto/v8.4
-#EXTINF:-1 tvg-chno="18.1" tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1_KLJBDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.1.jpg" group-title="Local",18.1 KLJB
+#EXTINF:-1 tvg-chno="18.1" tvg-id="I18.1.33825.zap2it.com" tvg-name="18.1_KLJBDT" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/18.1.jpg" group-title="Local",18.1 KLJB
 http://192.168.88.253:5004/auto/v18.1
-#EXTINF:-1 tvg-chno="18.2" tvg-id="I18.2.42919.zap2it.com" tvg-name="18.2_KLJBDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/18.2.png" group-title="Local",18.2 MeTV
+#EXTINF:-1 tvg-chno="18.2" tvg-id="I18.2.42919.zap2it.com" tvg-name="18.2_KLJBDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/18.2.png" group-title="Local",18.2 MeTV
 http://192.168.88.253:5004/auto/v18.2
-#EXTINF:-1 tvg-chno="20.5" tvg-id="I20.5.111308.zap2it.com" tvg-name="20.5_KLJBDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/20.5.png" group-title="Local",20.5 Light
+#EXTINF:-1 tvg-chno="20.5" tvg-id="I20.5.111308.zap2it.com" tvg-name="20.5_KLJBDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/20.5.png" group-title="Local",20.5 Light
 http://192.168.88.253:5004/auto/v18.2
-#EXTINF:-1 tvg-chno="20.6" tvg-id="I20.6.111309.zap2it.com" tvg-name="20.6_KLJBDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/20.6.png" group-title="Local",20.6 Quest
+#EXTINF:-1 tvg-chno="20.6" tvg-id="I20.6.111309.zap2it.com" tvg-name="20.6_KLJBDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/20.6.png" group-title="Local",20.6 Quest
 http://192.168.88.253:5004/auto/v18.2
-#EXTINF:-1 tvg-chno="24.1" tvg-id="I24.1.34723.zap2it.com" tvg-name="24.1_WQPTDT " tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.1.png" group-title="Local",24.1 WQPT
+#EXTINF:-1 tvg-chno="24.1" tvg-id="I24.1.34723.zap2it.com" tvg-name="24.1_WQPTDT " tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/24.1.png" group-title="Local",24.1 WQPT
 http://192.168.88.253:5004/auto/v24.1
-#EXTINF:-1 tvg-chno="24.2" tvg-id="I24.2.42771.zap2it.com" tvg-name="24.2_WQPTDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/24.2.png" group-title="Local",24.2 DW
+#EXTINF:-1 tvg-chno="24.2" tvg-id="I24.2.42771.zap2it.com" tvg-name="24.2_WQPTDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/24.2.png" group-title="Local",24.2 DW
 http://192.168.88.253:5004/auto/v24.2
-#EXTINF:-1 tvg-chno="26.1" tvg-id="I26.1.33828.zap2it.com" tvg-name="26.1_KGCWDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.1.png" group-title="Local",26.1 KGCW
+#EXTINF:-1 tvg-chno="26.1" tvg-id="I26.1.33828.zap2it.com" tvg-name="26.1_KGCWDT" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/26.1.png" group-title="Local",26.1 KGCW
 http://192.168.88.253:5004/auto/v26.1
-#EXTINF:-1 tvg-chno="26.2" tvg-id="I26.2.66330.zap2it.com" tvg-name="26.2_KGCWDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.2.png" group-title="Local",26.2 This
+#EXTINF:-1 tvg-chno="26.2" tvg-id="I26.2.66330.zap2it.com" tvg-name="26.2_KGCWDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/26.2.png" group-title="Local",26.2 This
 http://192.168.88.253:5004/auto/v26.2
-#EXTINF:-1 tvg-chno="26.3" tvg-id="I26.3.75300.zap2it.com" tvg-name="26.3_KGCWDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.3.png" group-title="Local",26.3 LAFF
+#EXTINF:-1 tvg-chno="26.3" tvg-id="I26.3.75300.zap2it.com" tvg-name="26.3_KGCWDT3" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/26.3.png" group-title="Local",26.3 LAFF
 http://192.168.88.253:5004/auto/v26.3
-#EXTINF:-1 tvg-chno="26.4" tvg-id="I26.4.100679.zap2it.com" tvg-name="26.4_KGCWDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/26.4.png" group-title="Local",26.4 BOUNCE
+#EXTINF:-1 tvg-chno="26.4" tvg-id="I26.4.100679.zap2it.com" tvg-name="26.4_KGCWDT4" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/26.4.png" group-title="Local",26.4 BOUNCE
 http://192.168.88.253:5004/auto/v26.4
-#EXTINF:-1 tvg-chno="36.1" tvg-id="I36.1.60352.zap2it.com" tvg-name="36.1_KQINDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.1.png" group-title="Local",36.1 PBS
+#EXTINF:-1 tvg-chno="36.1" tvg-id="I36.1.60352.zap2it.com" tvg-name="36.1_KQINDT" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/36.1.png" group-title="Local",36.1 PBS
 http://192.168.88.253:5004/auto/v36.1
-#EXTINF:-1 tvg-chno="36.2" tvg-id="I36.2.60354.zap2it.com" tvg-name="36.2_KQINDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.2.png" group-title="Local",36.2 PBS-Kids
+#EXTINF:-1 tvg-chno="36.2" tvg-id="I36.2.60354.zap2it.com" tvg-name="36.2_KQINDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/36.2.png" group-title="Local",36.2 PBS-Kids
 http://192.168.88.253:5004/auto/v36.2
-#EXTINF:-1 tvg-chno="36.3" tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3_KQINDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.3.png" group-title="Local",36.3 WORLD
+#EXTINF:-1 tvg-chno="36.3" tvg-id="I36.3.60357.zap2it.com" tvg-name="36.3_KQINDT3" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/36.3.png" group-title="Local",36.3 WORLD
 http://192.168.88.253:5004/auto/v36.3
-#EXTINF:-1 tvg-chno="36.4" tvg-id="I36.4.106175.zap2it.com" tvg-name="36.4_KQINDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.4.jpg" group-title="Local",36.4 Create
+#EXTINF:-1 tvg-chno="36.4" tvg-id="I36.4.106175.zap2it.com" tvg-name="36.4_KQINDT4" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/36.4.jpg" group-title="Local",36.4 Create
 http://192.168.88.253:5004/auto/v36.4
-#EXTINF:-1 tvg-chno="36.5" tvg-id="" tvg-name="36.5_KQINDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/36.5.jpg" group-title="Local",36.5 IRIS
+#EXTINF:-1 tvg-chno="36.5" tvg-id="" tvg-name="36.5_KQINDT5" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/36.5.jpg" group-title="Local",36.5 IRIS
 http://192.168.88.253:5004/auto/v5000
-#EXTINF:-1 tvg-chno="53.1" tvg-id="I53.1.78386.zap2it.com" tvg-name="53.1_WMWCDT" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/53.1.png" group-title="Local",53.1 TBN
+#EXTINF:-1 tvg-chno="53.1" tvg-id="I53.1.78386.zap2it.com" tvg-name="53.1_WMWCDT" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/53.1.png" group-title="Local",53.1 TBN
 http://192.168.88.253:5004/auto/v53.1
-#EXTINF:-1 tvg-chno="53.2"tvg-id="I53.2.97816.zap2it.com" tvg-name="53.2_WMWCDT2" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/53.2.png" group-title="Local",53.2 Hillsong
+#EXTINF:-1 tvg-chno="53.2"tvg-id="I53.2.97816.zap2it.com" tvg-name="53.2_WMWCDT2" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/53.2.png" group-title="Local",53.2 Hillsong
 http://192.168.88.253:5004/auto/v53.2
-#EXTINF:-1 tvg-chno="53.3" tvg-id="I53.3.91643.zap2it.com" tvg-name="53.3_WMWCDT3" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/53.3.png" group-title="Local",53.3 Smile
+#EXTINF:-1 tvg-chno="53.3" tvg-id="I53.3.91643.zap2it.com" tvg-name="53.3_WMWCDT3" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/53.3.png" group-title="Local",53.3 Smile
 http://192.168.88.253:5004/auto/v53.3
-#EXTINF:-1 tvg-chno="53.4" tvg-id="I53.4.97817.zap2it.com" tvg-name="53.4_WMWCDT4" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/53.4.jpg" group-title="Local",53.4 Enlace
+#EXTINF:-1 tvg-chno="53.4" tvg-id="I53.4.97817.zap2it.com" tvg-name="53.4_WMWCDT4" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/53.4.jpg" group-title="Local",53.4 Enlace
 http://192.168.88.253:5004/auto/v53.4
-#EXTINF:-1 tvg-chno="53.5" tvg-id="I53.5.97818.zap2it.com" tvg-name="53.5_WMWCDT5" tvg-logo="https://raw.github.com/rpadavich/logo/master/logo/53.5.png" group-title="Local",53.5 PosiTV
+#EXTINF:-1 tvg-chno="53.5" tvg-id="I53.5.97818.zap2it.com" tvg-name="53.5_WMWCDT5" tvg-logo="https://raw.githubusercontent.com/spintv/iptv/main/logos/53.5.png" group-title="Local",53.5 PosiTV
 http://192.168.88.253:5004/auto/v53.5
 ##################
 ##
